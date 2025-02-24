@@ -49,3 +49,4 @@ OpenAI, TensorFlow, and the open-source community for their tools and libraries.
 ---
 ### Authors
 - [Tejanshu Bhandari](https://github.com/TLxGHOST)
+- [Harsh Ray](https://github.com/HarshRay04)
